@@ -1,0 +1,89 @@
+Using device: cuda
+Dataset size: 50000
+Image shape: torch.Size([50000, 3, 32, 32])
+Label range: 0 to 8
+Output shape: torch.Size([1, 9])
+Checkpoint found — resuming...
+Resumed from epoch 28 | Best score so far: 0.5071
+Epoch  29 | Train adv acc: 0.468
+Epoch  30 | Train adv acc: 0.448 | Clean: 0.521 | Robust: 0.283 | Score: 0.402
+Epoch  31 | Train adv acc: 0.437
+Epoch  32 | Train adv acc: 0.483
+Epoch  33 | Train adv acc: 0.470
+Epoch  34 | Train adv acc: 0.481
+Epoch  35 | Train adv acc: 0.417 | Clean: 0.731 | Robust: 0.297 | Score: 0.514
+  → Saved best model to Drive (score=0.5136)
+Epoch  36 | Train adv acc: 0.465
+Epoch  37 | Train adv acc: 0.477
+Epoch  38 | Train adv acc: 0.458
+Epoch  39 | Train adv acc: 0.518
+Epoch  40 | Train adv acc: 0.471 | Clean: 0.473 | Robust: 0.209 | Score: 0.341
+Epoch  41 | Train adv acc: 0.417
+Epoch  42 | Train adv acc: 0.485
+Epoch  43 | Train adv acc: 0.475
+Epoch  44 | Train adv acc: 0.482
+Epoch  45 | Train adv acc: 0.482 | Clean: 0.725 | Robust: 0.269 | Score: 0.497
+Epoch  46 | Train adv acc: 0.495
+Epoch  47 | Train adv acc: 0.419
+Epoch  48 | Train adv acc: 0.470
+Epoch  49 | Train adv acc: 0.440
+Epoch  50 | Train adv acc: 0.488 | Clean: 0.370 | Robust: 0.113 | Score: 0.241
+Epoch  51 | Train adv acc: 0.445
+Epoch  52 | Train adv acc: 0.473
+Epoch  53 | Train adv acc: 0.455
+Epoch  54 | Train adv acc: 0.459
+Epoch  55 | Train adv acc: 0.486 | Clean: 0.733 | Robust: 0.191 | Score: 0.462
+Epoch  56 | Train adv acc: 0.467
+Epoch  57 | Train adv acc: 0.485
+Epoch  58 | Train adv acc: 0.498
+Epoch  59 | Train adv acc: 0.507
+Epoch  60 | Train adv acc: 0.456 | Clean: 0.693 | Robust: 0.207 | Score: 0.450
+Epoch  61 | Train adv acc: 0.495
+Epoch  62 | Train adv acc: 0.510
+Epoch  63 | Train adv acc: 0.402
+Epoch  64 | Train adv acc: 0.452
+Epoch  65 | Train adv acc: 0.480 | Clean: 0.624 | Robust: 0.205 | Score: 0.415
+Epoch  66 | Train adv acc: 0.493
+Epoch  67 | Train adv acc: 0.509
+Epoch  68 | Train adv acc: 0.488
+Epoch  69 | Train adv acc: 0.451
+Epoch  70 | Train adv acc: 0.535 | Clean: 0.764 | Robust: 0.194 | Score: 0.479
+Epoch  71 | Train adv acc: 0.544
+Epoch  72 | Train adv acc: 0.548
+Epoch  73 | Train adv acc: 0.544
+Epoch  74 | Train adv acc: 0.496
+Epoch  75 | Train adv acc: 0.457 | Clean: 0.814 | Robust: 0.300 | Score: 0.557
+  → Saved best model to Drive (score=0.5570)
+Epoch  76 | Train adv acc: 0.394
+Epoch  77 | Train adv acc: 0.437
+Epoch  78 | Train adv acc: 0.413
+Epoch  79 | Train adv acc: 0.387
+Epoch  80 | Train adv acc: 0.429 | Clean: 0.816 | Robust: 0.306 | Score: 0.561
+  → Saved best model to Drive (score=0.5611)
+Epoch  81 | Train adv acc: 0.434
+Epoch  82 | Train adv acc: 0.431
+Epoch  83 | Train adv acc: 0.416
+Epoch  84 | Train adv acc: 0.430
+Epoch  85 | Train adv acc: 0.428 | Clean: 0.826 | Robust: 0.330 | Score: 0.578
+  → Saved best model to Drive (score=0.5779)
+Epoch  86 | Train adv acc: 0.423
+Epoch  87 | Train adv acc: 0.419
+Epoch  88 | Train adv acc: 0.421
+Epoch  89 | Train adv acc: 0.423
+Epoch  90 | Train adv acc: 0.418 | Clean: 0.873 | Robust: 0.354 | Score: 0.613
+  → Saved best model to Drive (score=0.6135)
+Epoch  91 | Train adv acc: 0.419
+Epoch  92 | Train adv acc: 0.417
+Epoch  93 | Train adv acc: 0.419
+Epoch  94 | Train adv acc: 0.422
+Epoch  95 | Train adv acc: 0.419 | Clean: 0.888 | Robust: 0.369 | Score: 0.628
+  → Saved best model to Drive (score=0.6284)
+Epoch  96 | Train adv acc: 0.420
+Epoch  97 | Train adv acc: 0.422
+Epoch  98 | Train adv acc: 0.422
+Epoch  99 | Train adv acc: 0.422
+Epoch 100 | Train adv acc: 0.422 | Clean: 0.891 | Robust: 0.376 | Score: 0.633
+  → Saved best model to Drive (score=0.6334)
+
+Done. Best score: 0.6334
+Best model saved at: /content/model.pt
