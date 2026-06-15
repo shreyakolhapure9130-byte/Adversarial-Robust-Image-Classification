@@ -39,7 +39,7 @@ Your submission will fail if:
 """
 
 BASE_URL = "http://34.63.153.158"
-API_KEY = "1f7a1953a1d6aae8e315f6ed9201dadc"  # replace with your actual API key
+API_KEY = "YOUR API KEY"  # replace with your actual API key
 
 MODEL_PATH = "/Users/umairayaz/Downloads/tml_assignment_3/model.pt"  # replace with your actual model path
 MODEL_NAME = "resnet18"  # replace with your actual model architecture - resnet18, resnet34, or resnet50
